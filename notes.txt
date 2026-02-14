@@ -1,0 +1,3 @@
+graph is important
+dijkstra is a graph algorithm
+hash tables are fast
